@@ -1,6 +1,7 @@
 pendejada
 
 hola victor
+<<<<<<< HEAD
 we
 ffsdjkfll.sd
 f+
@@ -11,3 +12,6 @@ f
 sd
 kf
 
+=======
+jkahdfkajsnhdjklasdlasjdklasjdklasjdasdanklsdasdnklasdasdnkl
+>>>>>>> a6a75375c2a90e3fed41c5360772bea33b84c979
