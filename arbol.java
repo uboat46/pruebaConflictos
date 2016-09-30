@@ -299,6 +299,7 @@ public class ArbolAVL<T extends Comparable<T>>
             Imprenta.impNodo(arbol.raiz);
             System.out.println("-------------------------------");
             arbol.Elimina(80);
+
             arbol.Elimina(60);
             hgcfsjkdcbgzsdbfsdbfsdbfsdfgsk
             Imprenta.impNodo(arbol.raiz);
